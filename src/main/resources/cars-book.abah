@@ -1,0 +1,22 @@
+[s.page]
+[id]:start.page
+[name]:Start page
+[title]:Hello. It's a shop of new brand cars
+[s.list]
+[link]:ford.ka
+[link]:kia.ceed
+[e.list]
+[e.page]
+[s.page]
+[id]:ford.ka
+[name]:Ford Ka
+[description]:It's a wonderful car
+[e.page]
+[s.page]
+[id]:kia.ceed
+[name]:Kia Ceed
+[description]:it's a cool car
+[s.list]
+[link]:start.page
+[e.list]
+[e.page]
